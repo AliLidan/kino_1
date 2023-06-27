@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kino</string>
+    <string name="start">Start</string>
+    <string name="filtr">filtr</string>
+    <string name="delete">delete</string>
+    <string name="update">update</string>
+</resources>
